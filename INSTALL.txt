@@ -1,0 +1,9 @@
+Install
+-------
+DuckDB source:
+Clone forked version of duckdb repo at https://github.com/zhixiangteoh/duckdb
+  - `git clone git@github.com:zhixiangteoh/duckdb.git`
+
+Working set size (WSS) computation:
+Clone working set size (WSS) measuring tool repo at https://github.com/brendangregg/wss
+  - `git clone git@github.com:brendangregg/wss.git`
