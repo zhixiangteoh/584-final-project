@@ -7,3 +7,6 @@ Clone forked version of duckdb repo at https://github.com/zhixiangteoh/duckdb
 Working set size (WSS) computation:
 Clone working set size (WSS) measuring tool repo at https://github.com/brendangregg/wss
   - `git clone git@github.com:brendangregg/wss.git`
+
+Reference docs: https://docs.google.com/document/d/1w0JCWKd07tD7i7R2kP6NnuJhxiGuJnMxLYh3XrtcLLU/edit?usp=sharing
+Reference sheets: https://docs.google.com/spreadsheets/d/1sI27AjldQyZnX6Hby-SHtog6jbVNhSm5PgWu-zPTxlE/edit?usp=sharing

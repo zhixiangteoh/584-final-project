@@ -55,3 +55,6 @@ This above command will run the benchmark program on node 0 CPUs, but use both N
 Implementation(s)
 -----------------
 This work does not write or build any new software solution, nor does it modify existing software product(s). Instead, it describes and evaluates a viable system-level configuration and memory subsystem design that we emulate using operating system tools.
+
+Reference docs: https://docs.google.com/document/d/1w0JCWKd07tD7i7R2kP6NnuJhxiGuJnMxLYh3XrtcLLU/edit?usp=sharing
+Reference sheets: https://docs.google.com/spreadsheets/d/1sI27AjldQyZnX6Hby-SHtog6jbVNhSm5PgWu-zPTxlE/edit?usp=sharing
